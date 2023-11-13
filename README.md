@@ -1,4 +1,5 @@
-# Feedback to Nordic Computational Biology Team
+# Feedback for Nordic Computational Biology
+### Help us improve and develop the NCB platform
 
 <img width="330" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
 
