@@ -5,9 +5,8 @@
 Got suggestions on how to improve and develop Nordic Computational Biology? There are several ways to share your input:
 
 1. You can fill out the form on our website: https://nordic-compbio.iscbsc.org/send-feedback/ (If you are unable to access it in Chrome/Safari, try FireFox)
-2. Send your input via our contact form, available on our website: https://nordic-compbio.iscbsc.org/contact/
+2. Send your input via our contact form, available on our website: https://nordic-compbio.org/contact/
 3. Share ideas and suggestions as Github [issues](https://github.com/NordicCompBio/Feedback/issues).
-4. Tag us in your post on social media; see links below. For hashtag, you can use #NordicCompBio.
 
 Thank you!
 
