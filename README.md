@@ -1,7 +1,7 @@
 # Feedback for Nordic Computational Biology
 ### Help us improve and develop the NCB platform
 
-<img width="330" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
+<img width="130" alt="NCB_Logo_Circular-filled_white_text" src="https://github.com/user-attachments/assets/a21d6f3a-a649-49b8-b959-7ca6293355bd" />
 
 Got suggestions on how to improve and develop Nordic Computational Biology? There are several ways to share your input:
 
